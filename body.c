@@ -6,7 +6,7 @@ void helpMenu(){
      printf("\tOPTIONS:\nadd - add new item\nsearch - search item in list\n");
      printf("-i / -o  - in/out files\nshow - print list\n");
      printf("del - deleted Item in list\n");
-     printf("inj - injection of Item in list");
+     printf("inj - injection of Item in list\nhelp - help menu\n");
 }
 
 TList *createList(){
