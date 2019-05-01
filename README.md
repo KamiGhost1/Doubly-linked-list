@@ -5,6 +5,8 @@ you can:
 1. add Items
 2. remove Items
 3. search Items
-4. show list 
+4. show list
+
 for more information use the -h option. 
+
 Enjoy!
