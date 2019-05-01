@@ -8,6 +8,6 @@ you can:
 3. search Items
 4. show list
 
-for more information use the -h option. 
+for more information use the "help" option. 
 
 Enjoy!
